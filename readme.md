@@ -3,4 +3,4 @@ HIHIHHIIHIHHHHI
 blabalbalblabla
 
 
-![Alt text](src/Photo/screenshot.png)
+![Alt text](src/main/java/Lab1/Photo/screenshot.png)
